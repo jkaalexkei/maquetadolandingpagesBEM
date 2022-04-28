@@ -1,4 +1,4 @@
-!["Web developer"](https://github.com/ "Web Developer")
+!["Web developer"](https://github.com/jkaalexkei/maquetadolandingpagesBEM/blob/master/capture.png "Web Developer")
 # Saludos,
 #### Landing Pages desarrollada utilizando HTML y CSS aplicando BEM como metodología para el diseño de las clases de cada bloque y elemento del sitio. :+1: :computer:
 
